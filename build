@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+# MyDistro download and build script...
+#
+
+echo "MyDistro custom OEM installer download and build script..."
+
+echo "Done!"
